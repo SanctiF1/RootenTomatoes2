@@ -16,13 +16,13 @@ Working hours: 11
 
 * [x]  Add a tab bar for Box Office and DVD. (optional)
 	
-* [x]  Implement segmented control to switch between list view and grid view (optional)
+* []  Implement segmented control to switch between list view and grid view (optional)
 	
-* [x]  Add a search bar. (optional)
+* []  Add a search bar. (optional)
 	
 * [x]  All images fade in (optional)
 	
-* [x]  For the large poster, load the low-res image first, switch to high-res when complete (optional)
+* []  For the large poster, load the low-res image first, switch to high-res when complete (optional)
 	
 * [x]  Customize the highlight and selection effect of the cell. (optional)
 	
