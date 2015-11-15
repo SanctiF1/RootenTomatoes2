@@ -29,4 +29,4 @@ Working hours: 11
 * [x]  Customize the navigation bar. (optional)
 * 
 
-![Video Walkthrough](Rotten1.gif) ![Video Walkthrough](Rotten2.gif)
+![Video Walkthrough](Rotten1.gif) 		![Video Walkthrough](Rotten2.gif)
