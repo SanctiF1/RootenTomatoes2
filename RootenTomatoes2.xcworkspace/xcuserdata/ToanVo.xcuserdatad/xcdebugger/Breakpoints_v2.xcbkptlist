@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RootenTomatoes2/MovieCell.swift"
+            timestampString = "469123857.221675"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RootenTomatoes2.MovieCell.init (RootenTomatoes2.MovieCell.Type)(style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; RootenTomatoes2.MovieCell"
+                  moduleName = "RootenTomatoes2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ToanVo/Documents/RootenTomatoes2/RootenTomatoes2/MovieCell.swift"
+                  timestampString = "469123881.766126"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RootenTomatoes2.MovieCell.init (RootenTomatoes2.MovieCell.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;RootenTomatoes2.MovieCell&gt;"
+                  moduleName = "RootenTomatoes2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ToanVo/Documents/RootenTomatoes2/RootenTomatoes2/MovieCell.swift"
+                  timestampString = "469123881.766495"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
